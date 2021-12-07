@@ -1,0 +1,419 @@
+Index,PassEngEr_Id,PclaSS;-,NAME,SEX
+0,892.0,3.0,Kelly; Mr. James,male
+1,893.0,3.0,Wilkes; Mrs. James (Ellen Needs),female
+2,894.0,,Myles; Mr. Thomas Francis,
+3,895.0,3.0,,male
+4,896.0,3.0,Hirvonen; Mrs. Alexander (Helga E Lindqvist),female
+5,897.0,3.0,Svensson; Mr. Johan Cervin,male
+6,898.0,3.0,Connolly; Miss. Kate,female
+7,899.0,2.0,,male
+8,900.0,3.0,Abrahim; Mrs. Joseph (Sophie Halaut Easu),female
+9,,3.0,Davies; Mr. John Samuel,male
+10,902.0,3.0,Ilieff; Mr. Ylio,male
+11,903.0,,Jones; Mr. Charles Cresson,male
+12,904.0,1.0,Snyder; Mrs. John Pillsbury (Nelle Stevenson),
+13,905.0,2.0,Howard; Mr. Benjamin,male
+14,906.0,1.0,Chaffee; Mrs. Herbert Fuller (Carrie Constance Toogood),female
+15,907.0,2.0,del Carlo; Mrs. Sebastiano (Argenia Genovesi),female
+16,,2.0,Keane; Mr. Daniel,male
+17,909.0,3.0,Assaf; Mr. Gerios,
+18,910.0,3.0,,female
+19,911.0,3.0,"Assaf Khalil; Mrs. Mariana (Miriam"")""",
+20,912.0,1.0,Rothschild; Mr. Martin,male
+21,913.0,3.0,Olsen; Master. Artur Karl,male
+22,914.0,1.0,Flegenheim; Mrs. Alfred (Antoinette),female
+23,,1.0,Williams; Mr. Richard Norris II,
+24,916.0,1.0,Ryerson; Mrs. Arthur Larned (Emily Maria Borie),female
+25,917.0,3.0,Robins; Mr. Alexander A,male
+26,918.0,1.0,Ostby; Miss. Helene Ragnhild,female
+27,919.0,3.0,,male
+28,920.0,1.0,Brady; Mr. John Bertram,male
+29,921.0,3.0,Samaan; Mr. Elias,male
+30,922.0,2.0,Louch; Mr. Charles Alexander,
+31,923.0,2.0,Jefferys; Mr. Clifford Thomas,male
+32,924.0,3.0,Dean; Mrs. Bertram (Eva Georgetta Light),female
+33,925.0,,"Johnston; Mrs. Andrew G (Elizabeth Lily"" Watson)""",female
+34,926.0,1.0,Mock; Mr. Philipp Edmund,male
+35,927.0,3.0,"Katavelas; Mr. Vassilios (Catavelas Vassilios"")""",male
+36,928.0,3.0,Roth; Miss. Sarah A,female
+37,929.0,3.0,,female
+38,930.0,3.0,Sap; Mr. Julius,male
+39,931.0,3.0,Hee; Mr. Ling,male
+40,,3.0,,male
+41,933.0,,Franklin; Mr. Thomas Parham,male
+42,934.0,3.0,Goldsmith; Mr. Nathan,male
+43,935.0,2.0,Corbett; Mrs. Walter H (Irene Colvin),female
+44,936.0,,Kimball; Mrs. Edwin Nelson Jr (Gertrude Parsons),female
+45,937.0,3.0,Peltomaki; Mr. Nikolai Johannes,male
+46,938.0,1.0,,male
+47,939.0,3.0,Shaughnessy; Mr. Patrick,male
+48,940.0,1.0,Bucknell; Mrs. William Robert (Emma Eliza Ward),female
+49,941.0,3.0,,female
+50,942.0,1.0,Smith; Mr. Lucien Philip,male
+51,,2.0,,male
+52,944.0,,"Hocking; Miss. Ellen Nellie""""",female
+53,945.0,1.0,Fortune; Miss. Ethel Flora,
+54,946.0,2.0,Mangiavacchi; Mr. Serafino Emilio,
+55,947.0,3.0,Rice; Master. Albert,male
+56,948.0,3.0,Cor; Mr. Bartol,male
+57,,3.0,Abelseth; Mr. Olaus Jorgensen,male
+58,950.0,3.0,Davison; Mr. Thomas Henry,male
+59,951.0,1.0,Chaudanson; Miss. Victorine,female
+60,952.0,3.0,Dika; Mr. Mirko,male
+61,953.0,,McCrae; Mr. Arthur Gordon,male
+62,954.0,3.0,Bjorklund; Mr. Ernst Herbert,male
+63,955.0,3.0,Bradley; Miss. Bridget Delia,female
+64,956.0,1.0,Ryerson; Master. John Borie,
+65,957.0,,Corey; Mrs. Percy C (Mary Phyllis Elizabeth Miller),female
+66,958.0,3.0,Burns; Miss. Mary Delia,female
+67,959.0,,Moore; Mr. Clarence Bloomfield,male
+68,960.0,1.0,Tucker; Mr. Gilbert Milligan Jr,male
+69,961.0,1.0,Fortune; Mrs. Mark (Mary McDougald),female
+70,962.0,3.0,,female
+71,963.0,3.0,Minkoff; Mr. Lazar,male
+72,964.0,3.0,Nieminen; Miss. Manta Josefina,female
+73,965.0,1.0,Ovies y Rodriguez; Mr. Servando,male
+74,,1.0,Geiger; Miss. Amalie,female
+75,967.0,1.0,,
+76,968.0,3.0,Miles; Mr. Frank,male
+77,,1.0,Cornell; Mrs. Robert Clifford (Malvina Helen Lamson),female
+78,,2.0,Aldworth; Mr. Charles Augustus,male
+79,971.0,3.0,Doyle; Miss. Elizabeth,female
+80,972.0,3.0,Boulos; Master. Akar,male
+81,973.0,1.0,Straus; Mr. Isidor,male
+82,,1.0,Case; Mr. Howard Brown,male
+83,975.0,3.0,Demetri; Mr. Marinko,male
+84,,2.0,Lamb; Mr. John Joseph,male
+85,977.0,3.0,Khalil; Mr. Betros,male
+86,978.0,3.0,Barry; Miss. Julia,female
+87,979.0,3.0,Badman; Miss. Emily Louisa,female
+88,980.0,3.0,O'Donoghue; Ms. Bridget,female
+89,981.0,2.0,Wells; Master. Ralph Lester,male
+90,982.0,3.0,Dyker; Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female
+91,983.0,3.0,Pedersen; Mr. Olaf,male
+92,984.0,,Davidson; Mrs. Thornton (Orian Hays),female
+93,985.0,3.0,,male
+94,986.0,1.0,Birnbaum; Mr. Jakob,male
+95,987.0,3.0,Tenglin; Mr. Gunnar Isidor,male
+96,988.0,1.0,Cavendish; Mrs. Tyrell William (Julia Florence Siegel),female
+97,,3.0,,male
+98,990.0,3.0,Braf; Miss. Elin Ester Maria,
+99,991.0,3.0,Nancarrow; Mr. William Henry,male
+100,992.0,1.0,,female
+101,993.0,2.0,Weisz; Mr. Leopold,male
+102,994.0,3.0,Foley; Mr. William,male
+103,995.0,3.0,Johansson Palmquist; Mr. Oskar Leander,male
+104,996.0,3.0,,female
+105,997.0,3.0,Holthen; Mr. Johan Martin,male
+106,998.0,3.0,Buckley; Mr. Daniel,male
+107,999.0,3.0,Ryan; Mr. Edward,male
+108,1000.0,3.0,,male
+109,1001.0,2.0,Swane; Mr. George,male
+110,1002.0,2.0,Stanton; Mr. Samuel Ward,male
+111,1003.0,3.0,Shine; Miss. Ellen Natalia,female
+112,1004.0,1.0,Evans; Miss. Edith Corse,female
+113,1005.0,3.0,Buckley; Miss. Katherine,female
+114,1006.0,1.0,Straus; Mrs. Isidor (Rosalie Ida Blun),female
+115,1007.0,3.0,Chronopoulos; Mr. Demetrios,male
+116,1008.0,3.0,Thomas; Mr. John,male
+117,1009.0,3.0,Sandstrom; Miss. Beatrice Irene,female
+118,1010.0,1.0,Beattie; Mr. Thomson,male
+119,1011.0,2.0,Chapman; Mrs. John Henry (Sara Elizabeth Lawry),female
+120,1012.0,2.0,Watt; Miss. Bertha J,female
+121,1013.0,3.0,Kiernan; Mr. John,male
+122,1014.0,1.0,Schabert; Mrs. Paul (Emma Mock),female
+123,1015.0,,Carver; Mr. Alfred John,male
+124,,3.0,Kennedy; Mr. John,male
+125,,,Cribb; Miss. Laura Alice,female
+126,1018.0,3.0,Brobeck; Mr. Karl Rudolf,male
+127,1019.0,3.0,McCoy; Miss. Alicia,female
+128,1020.0,2.0,Bowenur; Mr. Solomon,male
+129,1021.0,3.0,Petersen; Mr. Marius,male
+130,,3.0,Spinner; Mr. Henry John,male
+131,,1.0,Gracie; Col. Archibald IV,male
+132,1024.0,,,female
+133,1025.0,3.0,Thomas; Mr. Charles P,male
+134,1026.0,3.0,,male
+135,1027.0,3.0,Carlsson; Mr. Carl Robert,male
+136,1028.0,3.0,Zakarian; Mr. Mapriededer,male
+137,1029.0,2.0,Schmidt; Mr. August,male
+138,1030.0,3.0,Drapkin; Miss. Jennie,female
+139,1031.0,3.0,Goodwin; Mr. Charles Frederick,male
+140,1032.0,3.0,,female
+141,1033.0,1.0,Daniels; Miss. Sarah,female
+142,1034.0,1.0,Ryerson; Mr. Arthur Larned,male
+143,1035.0,2.0,Beauchamp; Mr. Henry James,male
+144,1036.0,,"Lindeberg-Lind; Mr. Erik Gustaf (Mr Edward Lingrey"")""",male
+145,1037.0,3.0,Vander Planke; Mr. Julius,male
+146,1038.0,,Hilliard; Mr. Herbert Henry,male
+147,1039.0,3.0,Davies; Mr. Evan,male
+148,,1.0,Crafton; Mr. John Bertram,male
+149,1041.0,2.0,Lahtinen; Rev. William,male
+150,1042.0,1.0,Earnshaw; Mrs. Boulton (Olive Potter),female
+151,,3.0,Matinoff; Mr. Nicola,male
+152,1044.0,3.0,Storey; Mr. Thomas,male
+153,1045.0,,Klasen; Mrs. (Hulda Kristina Eugenia Lofqvist),female
+154,1046.0,3.0,Asplund; Master. Filip Oscar,male
+155,1047.0,3.0,Duquemin; Mr. Joseph,male
+156,1048.0,1.0,Bird; Miss. Ellen,female
+157,,3.0,Lundin; Miss. Olga Elida,female
+158,1050.0,1.0,Borebank; Mr. John James,male
+159,1051.0,3.0,Peacock; Mrs. Benjamin (Edith Nile),female
+160,1052.0,3.0,,female
+161,1053.0,3.0,Touma; Master. Georges Youssef,male
+162,,2.0,,female
+163,1055.0,3.0,Pearce; Mr. Ernest,male
+164,1056.0,2.0,Peruschitz; Rev. Joseph Maria,male
+165,1057.0,3.0,Kink-Heilmann; Mrs. Anton (Luise Heilmann),female
+166,1058.0,1.0,Brandeis; Mr. Emil,male
+167,1059.0,3.0,Ford; Mr. Edward Watson,male
+168,1060.0,1.0,Cassebeer; Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female
+169,1061.0,3.0,Hellstrom; Miss. Hilda Maria,
+170,1062.0,3.0,Lithman; Mr. Simon,male
+171,1063.0,,,male
+172,1064.0,,Dyker; Mr. Adolf Fredrik,male
+173,1065.0,3.0,Torfa; Mr. Assad,male
+174,1066.0,3.0,Asplund; Mr. Carl Oscar Vilhelm Gustafsson,male
+175,1067.0,2.0,Brown; Miss. Edith Eileen,female
+176,1068.0,2.0,Sincock; Miss. Maude,female
+177,1069.0,1.0,Stengel; Mr. Charles Emil Henry,male
+178,1070.0,2.0,Becker; Mrs. Allen Oliver (Nellie E Baumgardner),female
+179,1071.0,1.0,,female
+180,1072.0,2.0,McCrie; Mr. James Matthew,male
+181,1073.0,1.0,,
+182,1074.0,,Marvin; Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female
+183,1075.0,3.0,Lane; Mr. Patrick,male
+184,1076.0,1.0,Douglas; Mrs. Frederick Charles (Mary Helene Baxter),female
+185,1077.0,2.0,Maybery; Mr. Frank Hubert,male
+186,1078.0,2.0,Phillips; Miss. Alice Frances Louisa,female
+187,1079.0,3.0,Davies; Mr. Joseph,male
+188,1080.0,3.0,Sage; Miss. Ada,female
+189,1081.0,2.0,Veal; Mr. James,male
+190,1082.0,2.0,Angle; Mr. William A,male
+191,1083.0,1.0,,male
+192,1084.0,3.0,van Billiard; Master. Walter John,male
+193,1085.0,2.0,Lingane; Mr. John,
+194,1086.0,2.0,Drew; Master. Marshall Brines,male
+195,1087.0,,,male
+196,1088.0,1.0,Spedden; Master. Robert Douglas,male
+197,1089.0,3.0,,
+198,1090.0,,Baimbrigge; Mr. Charles Robert,male
+199,1091.0,3.0,Rasmussen; Mrs. (Lena Jacobsen Solvang),female
+200,1092.0,3.0,Murphy; Miss. Nora,female
+201,1093.0,3.0,Danbom; Master. Gilbert Sigvard Emanuel,male
+202,,1.0,Astor; Col. John Jacob,
+203,1095.0,2.0,Quick; Miss. Winifred Vera,female
+204,1096.0,2.0,,male
+205,1097.0,1.0,Omont; Mr. Alfred Fernand,male
+206,1098.0,3.0,McGowan; Miss. Katherine,female
+207,1099.0,2.0,Collett; Mr. Sidney C Stuart,male
+208,1100.0,1.0,Rosenbaum; Miss. Edith Louise,female
+209,1101.0,3.0,Delalic; Mr. Redjo,male
+210,1102.0,3.0,Andersen; Mr. Albert Karvin,male
+211,,3.0,Finoli; Mr. Luigi,male
+212,,2.0,Deacon; Mr. Percy William,male
+213,1105.0,2.0,Howard; Mrs. Benjamin (Ellen Truelove Arman),
+214,1106.0,3.0,Andersson; Miss. Ida Augusta Margareta,female
+215,1107.0,1.0,,male
+216,1108.0,,Mahon; Miss. Bridget Delia,female
+217,1109.0,1.0,,male
+218,1110.0,1.0,Widener; Mrs. George Dunton (Eleanor Elkins),
+219,1111.0,3.0,Thomson; Mr. Alexander Morrison,male
+220,1112.0,2.0,Duran y More; Miss. Florentina,female
+221,1113.0,,Reynolds; Mr. Harold J,male
+222,1114.0,2.0,Cook; Mrs. (Selena Rogers),female
+223,1115.0,3.0,Karlsson; Mr. Einar Gervasius,male
+224,1116.0,1.0,Candee; Mrs. Edward (Helen Churchill Hungerford),female
+225,1117.0,3.0,"Moubarek; Mrs. George (Omine Amenia"" Alexander)""",female
+226,1118.0,3.0,Asplund; Mr. Johan Charles,male
+227,1119.0,3.0,McNeill; Miss. Bridget,female
+228,1120.0,,Everett; Mr. Thomas James,male
+229,1121.0,2.0,Hocking; Mr. Samuel James Metcalfe,male
+230,1122.0,,Sweet; Mr. George Frederick,male
+231,1123.0,1.0,Willard; Miss. Constance,female
+232,1124.0,3.0,Wiklund; Mr. Karl Johan,male
+233,,3.0,Linehan; Mr. Michael,male
+234,1126.0,1.0,Cumings; Mr. John Bradley,male
+235,1127.0,,Vendel; Mr. Olof Edvin,male
+236,,1.0,Warren; Mr. Frank Manley,male
+237,1129.0,3.0,,male
+238,,2.0,Hiltunen; Miss. Marta,female
+239,1131.0,1.0,Douglas; Mrs. Walter Donald (Mahala Dutton),female
+240,1132.0,1.0,Lindstrom; Mrs. Carl Johan (Sigrid Posse),female
+241,1133.0,2.0,Christy; Mrs. (Alice Frances),female
+242,1134.0,1.0,Spedden; Mr. Frederic Oakley,male
+243,,3.0,Hyman; Mr. Abraham,male
+244,1136.0,,"Johnston; Master. William Arthur Willie""""",male
+245,1137.0,1.0,Kenyon; Mr. Frederick R,male
+246,1138.0,2.0,Karnes; Mrs. J Frank (Claire Bennett),female
+247,,2.0,Drew; Mr. James Vivian,male
+248,1140.0,2.0,Hold; Mrs. Stephen (Annie Margaret Hill),female
+249,,3.0,"Khalil; Mrs. Betros (Zahie Maria"" Elias)""",female
+250,1142.0,2.0,West; Miss. Barbara J,
+251,1143.0,3.0,Abrahamsson; Mr. Abraham August Johannes,male
+252,1144.0,1.0,Clark; Mr. Walter Miller,male
+253,1145.0,3.0,Salander; Mr. Karl Johan,male
+254,,3.0,,male
+255,1147.0,3.0,MacKay; Mr. George William,male
+256,1148.0,3.0,Mahon; Mr. John,male
+257,1149.0,3.0,Niklasson; Mr. Samuel,male
+258,1150.0,2.0,Bentham; Miss. Lilian W,female
+259,1151.0,3.0,Midtsjo; Mr. Karl Albert,male
+260,1152.0,3.0,de Messemaeker; Mr. Guillaume Joseph,male
+261,1153.0,3.0,Nilsson; Mr. August Ferdinand,male
+262,1154.0,2.0,"Wells; Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female
+263,1155.0,3.0,Klasen; Miss. Gertrud Emilia,female
+264,1156.0,2.0,Portaluppi; Mr. Emilio Ilario Giuseppe,male
+265,1157.0,3.0,Lyntakoff; Mr. Stanko,male
+266,1158.0,,Chisholm; Mr. Roderick Robert Crispin,male
+267,1159.0,3.0,Warren; Mr. Charles William,male
+268,1160.0,3.0,Howard; Miss. May Elizabeth,female
+269,1161.0,3.0,Pokrnic; Mr. Mate,male
+270,1162.0,1.0,McCaffry; Mr. Thomas Francis,male
+271,1163.0,3.0,Fox; Mr. Patrick,male
+272,1164.0,1.0,Clark; Mrs. Walter Miller (Virginia McDowell),
+273,1165.0,3.0,Lennon; Miss. Mary,female
+274,,3.0,Saade; Mr. Jean Nassr,male
+275,1167.0,2.0,Bryhl; Miss. Dagmar Jenny Ingeborg ,female
+276,1168.0,2.0,Parker; Mr. Clifford Richard,male
+277,1169.0,2.0,Faunthorpe; Mr. Harry,male
+278,1170.0,2.0,Ware; Mr. John James,male
+279,1171.0,,,male
+280,1172.0,3.0,Oreskovic; Miss. Jelka,female
+281,1173.0,3.0,Peacock; Master. Alfred Edward,male
+282,1174.0,3.0,Fleming; Miss. Honora,
+283,1175.0,3.0,Touma; Miss. Maria Youssef,female
+284,1176.0,3.0,Rosblom; Miss. Salli Helena,
+285,1177.0,3.0,Dennis; Mr. William,male
+286,1178.0,3.0,Franklin; Mr. Charles (Charles Fardon),
+287,1179.0,1.0,Snyder; Mr. John Pillsbury,male
+288,1180.0,3.0,Mardirosian; Mr. Sarkis,male
+289,1181.0,3.0,Ford; Mr. Arthur,male
+290,1182.0,1.0,,
+291,,3.0,"Daly; Miss. Margaret Marcella Maggie""""",female
+292,1184.0,3.0,Nasr; Mr. Mustafa,
+293,1185.0,1.0,Dodge; Dr. Washington,male
+294,,3.0,Wittevrongel; Mr. Camille,male
+295,1187.0,3.0,Angheloff; Mr. Minko,male
+296,,2.0,Laroche; Miss. Louise,female
+297,1189.0,3.0,Samaan; Mr. Hanna,male
+298,1190.0,1.0,Loring; Mr. Joseph Holland,male
+299,1191.0,3.0,Johansson; Mr. Nils,male
+300,1192.0,3.0,Olsson; Mr. Oscar Wilhelm,male
+301,1193.0,2.0,Malachard; Mr. Noel,male
+302,1194.0,2.0,Phillips; Mr. Escott Robert,
+303,1195.0,3.0,Pokrnic; Mr. Tome,male
+304,1196.0,3.0,"McCarthy; Miss. Catherine Katie""""",female
+305,1197.0,1.0,Crosby; Mrs. Edward Gifford (Catherine Elizabeth Halstead),female
+306,1198.0,1.0,Allison; Mr. Hudson Joshua Creighton,male
+307,1199.0,3.0,Aks; Master. Philip Frank,male
+308,1200.0,,Hays; Mr. Charles Melville,male
+309,1201.0,,,female
+310,1202.0,3.0,Cacic; Mr. Jego Grga,male
+311,1203.0,3.0,Vartanian; Mr. David,male
+312,1204.0,3.0,Sadowitz; Mr. Harry,male
+313,1205.0,3.0,Carr; Miss. Jeannie,female
+314,1206.0,1.0,White; Mrs. John Stuart (Ella Holmes),female
+315,1207.0,3.0,Hagardon; Miss. Kate,
+316,1208.0,1.0,Spencer; Mr. William Augustus,male
+317,1209.0,2.0,Rogers; Mr. Reginald Harry,male
+318,1210.0,3.0,Jonsson; Mr. Nils Hilding,male
+319,1211.0,2.0,Jefferys; Mr. Ernest Wilfred,male
+320,1212.0,3.0,Andersson; Mr. Johan Samuel,male
+321,1213.0,3.0,,male
+322,1214.0,2.0,Nesson; Mr. Israel,
+323,1215.0,1.0,,male
+324,1216.0,1.0,Kreuchen; Miss. Emilie,female
+325,1217.0,3.0,Assam; Mr. Ali,male
+326,1218.0,2.0,Becker; Miss. Ruth Elizabeth,female
+327,,1.0,"Rosenshine; Mr. George (Mr George Thorne"")""",male
+328,1220.0,2.0,Clarke; Mr. Charles Valentine,male
+329,1221.0,,Enander; Mr. Ingvar,male
+330,1222.0,2.0,Davies; Mrs. John Morgan (Elizabeth Agnes Mary White) ,female
+331,1223.0,1.0,Dulles; Mr. William Crothers,
+332,1224.0,3.0,Thomas; Mr. Tannous,male
+333,1225.0,3.0,"Nakid; Mrs. Said (Waika Mary"" Mowad)""",female
+334,1226.0,3.0,Cor; Mr. Ivan,male
+335,1227.0,1.0,Maguire; Mr. John Edward,male
+336,1228.0,,de Brito; Mr. Jose Joaquim,
+337,1229.0,3.0,Elias; Mr. Joseph,
+338,1230.0,2.0,Denbury; Mr. Herbert,male
+339,1231.0,3.0,Betros; Master. Seman,male
+340,1232.0,2.0,Fillbrook; Mr. Joseph Charles,male
+341,1233.0,3.0,Lundstrom; Mr. Thure Edvin,
+342,1234.0,3.0,Sage; Mr. John George,
+343,1235.0,,Cardeza; Mrs. James Warburton Martinez (Charlotte Wardle Drake),female
+344,1236.0,3.0,van Billiard; Master. James William,male
+345,,3.0,Abelseth; Miss. Karen Marie,female
+346,1238.0,,Botsford; Mr. William Hull,male
+347,1239.0,3.0,Whabee; Mrs. George Joseph (Shawneene Abi-Saab),female
+348,1240.0,2.0,Giles; Mr. Ralph,male
+349,,2.0,Walcroft; Miss. Nellie,
+350,1242.0,1.0,Greenfield; Mrs. Leo David (Blanche Strouse),female
+351,1243.0,2.0,Stokes; Mr. Philip Joseph,male
+352,1244.0,2.0,Dibden; Mr. William,male
+353,1245.0,2.0,Herman; Mr. Samuel,male
+354,1246.0,3.0,"Dean; Miss. Elizabeth Gladys Millvina""""",female
+355,1247.0,1.0,Julian; Mr. Henry Forbes,male
+356,1248.0,1.0,Brown; Mrs. John Murray (Caroline Lane Lamson),female
+357,1249.0,3.0,Lockyer; Mr. Edward,male
+358,1250.0,3.0,O'Keefe; Mr. Patrick,male
+359,1251.0,,Lindell; Mrs. Edvard Bengtsson (Elin Gerda Persson),
+360,1252.0,3.0,Sage; Master. William Henry,male
+361,1253.0,2.0,Mallet; Mrs. Albert (Antoinette Magnin),female
+362,1254.0,2.0,,female
+363,1255.0,3.0,Strilic; Mr. Ivan,male
+364,1256.0,1.0,Harder; Mrs. George Achilles (Dorothy Annan),female
+365,,3.0,Sage; Mrs. John (Annie Bullen),female
+366,1258.0,,Caram; Mr. Joseph,
+367,1259.0,,"Riihivouri; Miss. Susanna Juhantytar Sanni""""",female
+368,1260.0,1.0,Gibson; Mrs. Leonard (Pauline C Boeson),female
+369,1261.0,,Pallas y Castello; Mr. Emilio,male
+370,1262.0,2.0,Giles; Mr. Edgar,male
+371,1263.0,1.0,Wilson; Miss. Helen Alice,female
+372,1264.0,1.0,Ismay; Mr. Joseph Bruce,male
+373,1265.0,2.0,Harbeck; Mr. William H,male
+374,1266.0,1.0,Dodge; Mrs. Washington (Ruth Vidaver),female
+375,1267.0,1.0,Bowen; Miss. Grace Scott,
+376,1268.0,3.0,Kink; Miss. Maria,female
+377,1269.0,2.0,"Cotterill; Mr. Henry Harry""""",male
+378,1270.0,1.0,Hipkins; Mr. William Edward,
+379,1271.0,3.0,Asplund; Master. Carl Edgar,male
+380,1272.0,3.0,O'Connor; Mr. Patrick,male
+381,1273.0,,Foley; Mr. Joseph,male
+382,1274.0,3.0,Risien; Mrs. Samuel (Emma),female
+383,1275.0,3.0,McNamee; Mrs. Neal (Eileen O'Leary),female
+384,1276.0,2.0,"Wheeler; Mr. Edwin Frederick""""",
+385,1277.0,2.0,Herman; Miss. Kate,female
+386,1278.0,3.0,Aronsson; Mr. Ernst Axel Algot,
+387,1279.0,2.0,Ashby; Mr. John,male
+388,,3.0,Canavan; Mr. Patrick,male
+389,1281.0,3.0,Palsson; Master. Paul Folke,male
+390,1282.0,1.0,Payne; Mr. Vivian Ponsonby,male
+391,1283.0,1.0,Lines; Mrs. Ernest H (Elizabeth Lindsey James),female
+392,,3.0,Abbott; Master. Eugene Joseph,male
+393,1285.0,2.0,Gilbert; Mr. William,
+394,1286.0,3.0,Kink-Heilmann; Mr. Anton,male
+395,1287.0,1.0,,female
+396,1288.0,3.0,Colbert; Mr. Patrick,male
+397,1289.0,1.0,Frolicher-Stehli; Mrs. Maxmillian (Margaretha Emerentia Stehli),female
+398,1290.0,,Larsson-Rondberg; Mr. Edvard A,male
+399,,3.0,Conlon; Mr. Thomas Henry,male
+400,1292.0,1.0,Bonnell; Miss. Caroline,female
+401,1293.0,2.0,Gale; Mr. Harry,male
+402,1294.0,1.0,Gibson; Miss. Dorothy Winifred,female
+403,1295.0,1.0,Carrau; Mr. Jose Pedro,male
+404,,1.0,,male
+405,1297.0,2.0,,male
+406,1298.0,2.0,Ware; Mr. William Jeffery,male
+407,1299.0,1.0,Widener; Mr. George Dunton,male
+408,1300.0,3.0,,female
+409,1301.0,3.0,Peacock; Miss. Treasteall,female
+410,1302.0,3.0,Naughton; Miss. Hannah,female
+411,1303.0,1.0,Minahan; Mrs. William Edward (Lillian E Thorpe),female
+412,1304.0,3.0,Henriksson; Miss. Jenny Lovisa,female
+413,1305.0,3.0,Spector; Mr. Woolf,male
+414,1306.0,1.0,Oliva y Ocana; Dona. Fermina,female
+415,1307.0,3.0,Saether; Mr. Simon Sivertsen,male
+416,1308.0,,Ware; Mr. Frederick,male
+417,1309.0,3.0,Peter; Master. Michael J,
